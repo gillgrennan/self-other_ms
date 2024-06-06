@@ -1,5 +1,5 @@
-
-
+self-other_dmn_roi_analysis = typical ROI analysis 
+self-other_thirdlevel_analysis_dmn = third-level ROI analysis (small-level voxel corrections) 
 
 **Methods of DMN mask creation: 
 **
