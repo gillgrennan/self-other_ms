@@ -1,5 +1,5 @@
 self-other_dmn_roi_analysis = typical ROI analysis 
-self-other_thirdlevel_analysis_dmn = third-level ROI analysis (small-level voxel corrections) 
+self-other_thirdlevel_analysis_dmn = third-level ROI analysis (small volume voxel corrections) 
 
 **Methods of DMN mask creation: 
 **
@@ -22,7 +22,7 @@ Run typical ROI-analysis:
 Third-level ROI analysis: 
   whole-brain first / second-level analysis 
   perform corrections on JUST DMN mask -- ignore the rest 
-  (small voxel corrections?) 
+  (small volume voxel corrections?) 
 
 example for third-level ROI analysis: 
 https://nilearn.github.io/dev/auto_examples/06_manipulating_images/plot_roi_extraction.html#sphx-glr-auto-examples-06-manipulating-images-plot-roi-extraction-py
